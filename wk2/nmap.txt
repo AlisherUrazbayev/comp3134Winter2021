@@ -1,0 +1,43 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap disney.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-31 02:05 UTC
+Nmap scan report for disney.com (130.211.198.204)
+Host is up (0.024s latency).
+rDNS record for 130.211.198.204: 204.198.211.130.bc.googleusercontent.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.66 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 10 disney.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-31 02:06 UTC
+Nmap scan report for disney.com (130.211.198.204)
+Host is up (0.024s latency).
+rDNS record for 130.211.198.204: 204.198.211.130.bc.googleusercontent.com
+
+PORT   STATE    SERVICE
+10/tcp filtered unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 11.52 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 10-100 disney.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-31 02:07 UTC
+Nmap scan report for disney.com (130.211.198.204)
+Host is up (0.024s latency).
+rDNS record for 130.211.198.204: 204.198.211.130.bc.googleusercontent.com
+Not shown: 90 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 12.91 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F disney.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-31 02:07 UTC
+Nmap scan report for disney.com (130.211.198.204)
+Host is up (0.024s latency).
+rDNS record for 130.211.198.204: 204.198.211.130.bc.googleusercontent.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 13.05 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#

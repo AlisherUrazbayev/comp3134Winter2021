@@ -1,0 +1,67 @@
+1)Location information : Netflix.com
+Country CodeUS
+Country NameUnited States of America
+RegionVirginia
+CityAshburn
+Find IP Results: 30 Jan 2021 08:25:45 PM
+
+S. No.Domain NameIP Address
+Netflix.cometflix.com./34.194.68.3
+Netflix.cometflix.com./54.209.220.147
+Netflix.cometflix.com./107.23.174.29
+Netflix.cometflix.com./52.7.1.122
+Netflix.cometflix.com./23.22.19.201
+Netflix.cometflix.com./54.165.16.47
+Netflix.cometflix.com./54.174.157.73
+Netflix.cometflix.com./34.198.43.9
+
+2)Location information : ubisoft.ca
+Country CodeFR
+Country NameFrance
+RegionIle-de-France
+CityParis
+Find IP Results: 30 Jan 2021 08:28:31 PM
+
+S. No.Domain NameIP Address
+1ubisoft.cabisoft.ca./217.70.184.38
+
+3)Result URL: Nestle.com
+Load Time: 659 ms
+Tested on: 30 Jan 2021 08:29:02 PM
+Check Website Availability   |Ping Website   |DNS Analysis   |Find IP   |Find Location
+Find Location Results: 30 Jan 2021 08:29:05 PM
+
+Location information : Nestle.com
+Country CodeUS
+Country NameUnited States of America
+RegionCalifornia
+CitySan Francisco
+Find IP Results: 30 Jan 2021 08:29:02 PM
+
+S. No.Domain NameIP Address
+1Nestle.comestle.com./104.18.26.142
+2Nestle.comestle.com./104.18.27.142
+
+4)
+Domain Name: blizzard.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 137.221.106.104
+
+Geolocation: FR (France), N/A, N/A, N/A N/A - Google Maps
+
+Reverse DNS entry: not found
+5)Domain Name: intel.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 13.91.95.74
+
+Geolocation: US (United States), CA, California, 95141 San Jose - Google Maps
+
+Reverse DNS entry: not found
