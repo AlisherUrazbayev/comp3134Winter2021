@@ -1,0 +1,2 @@
+ systemctl restart sshd
+ ssh -p 2222 root@178.128.229.39
